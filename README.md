@@ -31,7 +31,7 @@ Multi login . jadi bisa ganti akun ( selama cookies/token valid)
 # instal
 $pkg install python git
 
-$git clone https://github.com/afifrden/MBFv3
+$git clone https://github.com/afifrden7/MBFv3
 
 $pip install requests
 
